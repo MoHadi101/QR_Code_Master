@@ -7,7 +7,7 @@ Scanne QR-Codes blitzschnell, führe intelligente Aktionen aus (Links öffnen, a
 
 ### Android
 
-[⬇️ QR Master herunterladen](https://github.com/MoHadi101/QRMaster/releases/download/v1.0.0/app-release.apk)
+[⬇️ QR Master herunterladen](https://github.com/MoHadi101/QR_Code_Master/releases/download/v1.0.0/app-release.apk)
 
 **Version:** 1.0.0  
 **Dateiformat:** APK  
