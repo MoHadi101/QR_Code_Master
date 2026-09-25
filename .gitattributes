@@ -1,0 +1,15 @@
+# Alle HTML-Dateien von der Spracherkennung ausschließen
+*.html linguist-detectable=false
+
+# Dart explizit als Programmiersprache festlegen und erkennen
+*.dart linguist-language=Dart
+*.dart linguist-detectable=true
+
+# Optional: Auch andere Flutter-spezifische Dateitypen ignorieren
+*.kt linguist-detectable=false
+*.gradle linguist-detectable=false
+*.cmake linguist-detectable=false
+*.cpp linguist-detectable=false
+*.h linguist-detectable=false
+*.cc linguist-detectable=false
+*.xml linguist-detectable=false
